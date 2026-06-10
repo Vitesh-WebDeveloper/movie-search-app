@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-(https://vitesh-webdeveloper.github.io/movie-search-app/)
+(https://movie-app-vitesh.netlify.app/)
 
 ## 🚀 Features
 
